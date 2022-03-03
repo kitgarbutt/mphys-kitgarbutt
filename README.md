@@ -6,7 +6,7 @@ Photons emit from the LED, following a sinusoidal probability distribution, and 
 
 The purpose of this is to study the uniformity of illumination.
 
-This version is very basic as we are at the beginning of our project.
+This version is very basic as we are at the beginning of our project. (In collaboration with @JackAYoung301)
 
 <p align="left">
   <img src="274207123_5212102385487366_2221284332605063388_n.jpg" width="400" title="hover text">
