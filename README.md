@@ -14,4 +14,4 @@ The purpose of this is to study the uniformity of illumination.
 Week 5 Changes:
  - Added partial specularity
  - Added absorption of camera
- - Added histograms of absorption position and agle data
+ - Added histograms of absorption position and angle data
