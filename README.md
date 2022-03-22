@@ -15,3 +15,11 @@ Week 5 Changes:
  - Added partial specularity
  - Added absorption of camera
  - Added histograms of absorption position and angle data
+
+Week 6 Changes:
+ - Added 2D KDE plot
+ - Changed baseline to Lambertian reflector
+ - Added absorption factor into hemisphere and baseline
+ - Fixed issue where camera_intersect wasn't working properly
+ - Added position of interaction log
+ - Started tracing rays graphically
