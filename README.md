@@ -23,3 +23,4 @@ Week 6 Changes:
  - Fixed issue where camera_intersect wasn't working properly
  - Added position of interaction log
  - Started tracing rays graphically
+ - Added tqdm progress bar
