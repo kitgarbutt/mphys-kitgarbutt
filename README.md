@@ -24,3 +24,13 @@ Week 6 Changes:
  - Added position of interaction log
  - Started tracing rays graphically
  - Added tqdm progress bar
+
+Week 7 Changes:
+ - New Lambertian Model
+ - Added baffler
+ - Camera absorption position/angle plots
+ - New schematic:
+
+<p align="left">
+  <img src="image.jpg" width="400" title="hover text">
+</p>
