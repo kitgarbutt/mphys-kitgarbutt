@@ -32,5 +32,11 @@ Week 7 Changes:
  - New schematic:
 
 <p align="left">
-  <img src="image.jpg" width="400" title="hover text">
+  <img src="design.jpg" width="400" title="hover text">
 </p>
+
+Week 8 Changes:
+ - Added comparison to experimental model
+
+Week 9 Changes:
+ - Added chi-squared calculations for experimental model and uniformity
