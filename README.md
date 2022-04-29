@@ -40,3 +40,4 @@ Week 8 Changes:
 
 Week 9 Changes:
  - Added chi-squared calculations for experimental model and uniformity
+ - Added diffuser
