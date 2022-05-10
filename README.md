@@ -41,3 +41,8 @@ Week 8 Changes:
 Week 9 Changes:
  - Added chi-squared calculations for experimental model and uniformity
  - Added diffuser
+
+Week 10 Changes:
+ - Now 2 different branches: match and optomize
+ - Match contains lens transformation
+ - Optomize code wrapped in a function  and SciPy minimize used to find optimum baffle position
