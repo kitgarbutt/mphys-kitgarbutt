@@ -46,3 +46,7 @@ Week 10 Changes:
  - Now 2 different branches: match and optomize
  - Match contains lens transformation
  - Optomize code wrapped in a function  and SciPy minimize used to find optimum baffle position
+
+Final Changes:
+ - Optomize code wrappped in function, and looped for multiple simulations. 
+ - Automatically tests for a user-specified range of baffle parameters.
